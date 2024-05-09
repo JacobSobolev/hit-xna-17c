@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/Bitbucket/hit-xna-17c/C17 Ex03 Jacob Sobolev/Space Invaders/Content/Assets/MotherShip_32x120.png</File>
+    <File>F:/Bitbucket/hit-xna-17c/C17 Ex03 Jacob Sobolev/Space Invaders/Content/Assets/Ship01_32x32.png</File>
+    <File>F:/Bitbucket/hit-xna-17c/C17 Ex03 Jacob Sobolev/Space Invaders/Content/Assets/BG_Space01_1024x768.jpg</File>
+    <File>F:/Bitbucket/hit-xna-17c/C17 Ex03 Jacob Sobolev/Space Invaders/Content/Assets/Bullet.png</File>
+    <File>F:/Bitbucket/hit-xna-17c/C17 Ex03 Jacob Sobolev/Space Invaders/Content/Assets/Barrier_44x32.png</File>
+    <File>F:/Bitbucket/hit-xna-17c/C17 Ex03 Jacob Sobolev/Space Invaders/Content/Assets/Ship02_32x32.png</File>
+    <File>F:/Bitbucket/hit-xna-17c/C17 Ex03 Jacob Sobolev/Space Invaders/Content/Fonts/Consolas.spritefont</File>
+    <File>F:/Bitbucket/hit-xna-17c/C17 Ex03 Jacob Sobolev/Space Invaders/Content/Assets/Enemies192x32.png</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,9 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 2
+Student Details: JacobSobolev
+Delivery Date.........: 6 - September - 2017
+Delivered In Delay....: 2
+Delay Reason..........: bug fixing that noticed on 6/9
+Comments..............: 
+
+==========================Exercise Checking Report==========================

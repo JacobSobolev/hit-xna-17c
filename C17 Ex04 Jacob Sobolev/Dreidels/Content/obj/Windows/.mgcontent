@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/Bitbucket/hit-xna-17c/C17 Ex04 Jacob Sobolev/Dreidels/Content/Assets/B.jpg</File>
+    <File>F:/Bitbucket/hit-xna-17c/C17 Ex04 Jacob Sobolev/Dreidels/Content/Assets/D.jpg</File>
+    <File>F:/Bitbucket/hit-xna-17c/C17 Ex04 Jacob Sobolev/Dreidels/Content/Assets/P.jpg</File>
+    <File>F:/Bitbucket/hit-xna-17c/C17 Ex04 Jacob Sobolev/Dreidels/Content/Assets/V.jpg</File>
+    <File>F:/Bitbucket/hit-xna-17c/C17 Ex04 Jacob Sobolev/Dreidels/Content/Assets/allLetters.jpg</File>
+    <File>F:/Bitbucket/hit-xna-17c/C17 Ex04 Jacob Sobolev/Dreidels/Content/Assets/LettersLine.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>

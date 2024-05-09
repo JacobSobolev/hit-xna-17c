@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/BitBucket/hit-xna-17c/C17 Ex01 Jacob Sobolev/C17 Ex01 Jacob Sobolev/Content/Assets/Enemy0101_32x32.png</File>
+    <File>C:/BitBucket/hit-xna-17c/C17 Ex01 Jacob Sobolev/C17 Ex01 Jacob Sobolev/Content/Assets/Enemy0201_32x32.png</File>
+    <File>C:/BitBucket/hit-xna-17c/C17 Ex01 Jacob Sobolev/C17 Ex01 Jacob Sobolev/Content/Assets/Enemy0301_32x32.png</File>
+    <File>C:/BitBucket/hit-xna-17c/C17 Ex01 Jacob Sobolev/C17 Ex01 Jacob Sobolev/Content/Assets/MotherShip_32x120.png</File>
+    <File>C:/BitBucket/hit-xna-17c/C17 Ex01 Jacob Sobolev/C17 Ex01 Jacob Sobolev/Content/Assets/Ship01_32x32.png</File>
+    <File>C:/BitBucket/hit-xna-17c/C17 Ex01 Jacob Sobolev/C17 Ex01 Jacob Sobolev/Content/Assets/BG_Space01_1024x768.jpg</File>
+    <File>C:/BitBucket/hit-xna-17c/C17 Ex01 Jacob Sobolev/C17 Ex01 Jacob Sobolev/Content/Assets/Bullet.png</File>
+  </SourceFiles>
+</SourceFileCollection>
